@@ -209,6 +209,7 @@
       "scope": [
         "entity.name.tag",
         "storage",
+        "storage.type.builtin",
         "support.function.builtin",
         "variable.language"
       ],

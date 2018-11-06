@@ -1,23 +1,20 @@
-# Plastic
+# Pretentious Name
 
-_[A simple syntax and UI theme for Visual Studio Code.](http://wstone.io/plastic/)_
+_[A fork of Plastic v1, because people change things and I don't always like it.](http://wstone.io/plastic/)_
 
 ---
 
 ## Notable features
 
-* Dark UI elements for all-day coding.
+* Deprioritised-punctuation theme
 * Small colour palette to avoid visual overload.
-* Additional deprioritised-punctuation theme; concentrate on the content.
 
-<a href="https://raw.githubusercontent.com/will-stone/plastic/master/docs/screenshot-min.png" target="_blank"><img src="https://raw.githubusercontent.com/will-stone/plastic/master/docs/screenshot-min.png" width="500" alt="Screenshot"></a>
+<img src="https://raw.githubusercontent.com/will-stone/plastic/master/docs/screenshot-min.png" width="500" alt="Screenshot">
 
 ## Colours
 
 Inspired by Atom's One Dark theme, yet simpler and darker.
 
-Colour names provided by [Chirag Mehta's](http://chir.ag/about) fantastic
-[Name That Colour](http://chir.ag/projects/name-that-color/) website.
 
 ### Syntax
 
@@ -59,34 +56,40 @@ Colour names provided by [Chirag Mehta's](http://chir.ag/about) fantastic
 * ![#080A0F](https://placehold.it/15/080A0F/000000?text=+) Bunker **#080A0F** -
   _Back-back-background (input background, contrast borders)_
 
-## Contribute
-
-Themes can always be improved and tweaked so please feel free to log issues and
-send pull requests. However, please keep in mind that this theme strives to
-remain simple and language agnostic; for example, please do not ask for
-`blah.blah.php` or `blah.blah.c` scopes to be added. Also, and this is purely
-personal, I'm a JavaScript developer and therefore anything that alters the
-colours for the JavaScript language will receive much more scrutiny before being
-merged in.
-
-Clone the repository to `.vscode/extenstions/`(remember to remove any other
-installed versions of Plastic), run `yarn` to install dependencies, and
-`yarn docs` to serve the documentation page.
-
-Use Microsoft's
-[theme color reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
-for UI theming help.
-
-You'll notice that the syntax is grouped by colour instead of scope. I find this
-much nicer to maintain.
-
-Happy hacking :)
 
 # License
 
-MIT
+Colours, scopes, and everything else based on the excellent [Plastic](https://marketplace.visualstudio.com/items?itemName=will-stone.plastic) theme by Will Stone.
+Things changed with v2, so consider this a fork of v1.
 
-# V2 Beta
+Original license below:
 
-Version 2 of Plastic is now available, go to `View > Command Palette...` and
-type "color theme"
+```
+MIT License
+
+Copyright (c) 2017-present, Will Stone
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+
+
+
+
+
