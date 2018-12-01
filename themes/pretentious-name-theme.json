@@ -150,10 +150,10 @@
         "punctuation.parenthesis.named.end.regexp",
         "punctuation.parenthesis.non-capturing.begin.regexp",
         "punctuation.parenthesis.non-capturing.end.regexp",
-        "storage.type",
         "support.constant",
         "support.type",
-        "support.class"
+        "support.class",
+        "storage.type"
       ],
       "settings": {
         "foreground": "#61afef"
@@ -209,7 +209,7 @@
       "scope": [
         "entity.name.tag",
         "storage",
-        "storage.type.builtin",
+        "support.type.builtin",
         "support.function.builtin",
         "variable.language"
       ],
