@@ -9,7 +9,7 @@ _[A fork of Plastic v1, because people change things and I don't always like it.
 * Deprioritised-punctuation theme
 * Small colour palette to avoid visual overload.
 
-<img src="https://raw.githubusercontent.com/will-stone/plastic/master/docs/screenshot-min.png" width="500" alt="Screenshot">
+<img src="https://raw.githubusercontent.com/zhiayang/vscode-theme-pretentious-name/master/images/screenshot.png" width="500" alt="Screenshot">
 
 ## Colours
 
