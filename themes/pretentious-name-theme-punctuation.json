@@ -27,7 +27,8 @@
         "punctuation.terminator"
       ],
       "settings": {
-        "foreground": "#737c8c"
+        "foreground": "#737c8c",
+        "editor.background": "#1a1a1a"
       }
     }
   ]

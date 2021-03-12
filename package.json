@@ -19,7 +19,7 @@
             },
             {
                 "label": "Pretentious Name - Light",
-                "uiTheme": "vs-light",
+                "uiTheme": "vs",
                 "path": "./themes/Pretentious Name Light.tmTheme"
             }
         ]
