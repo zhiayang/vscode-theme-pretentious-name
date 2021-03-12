@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Plastic - Minimised Punctuation (Light)</string>
+	<key>author</key>
+	<string>zhiayang</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>lineHighlight</key>
+				<string>#e0e0e0</string>
+				<key>selection</key>
+				<string>#d6d6d6</string>
+				<key>invisibles</key>
+				<string>#a8a8a8</string>
+				<key>background</key>
+				<string>#f8f8f4</string>
+				<key>foreground</key>
+				<string>#4d4d58</string>
+				<key>caret</key>
+				<string>#aeafad</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Comment</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#808090</string>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+			<key>scope</key>
+			<string>comment, string.quoted.double.block.python</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Foreground</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#666969</string>
+			</dict>
+			<key>scope</key>
+			<string>keyword.operator.class, constant.other, source.php.embedded.line</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Variable, String Link, Regular Expression, Tag Name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#434A56</string>
+			</dict>
+			<key>scope</key>
+			<string>variable, support.other.variable, string.other.link, string.regexp, entity.name.tag, entity.other.attribute-name, meta.tag, declaration.tag, support.function</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Punctuation</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9d9da0</string>
+			</dict>
+			<key>scope</key>
+			<string>punctuation</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Number, Constant, Function Argument, Tag Attribute, Embedded</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#BD7F00</string>
+			</dict>
+			<key>scope</key>
+			<string>constant.numeric, constant.language, support.constant, constant.character, variable.parameter, punctuation.section.embedded, keyword.other.unit</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Class, Support</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c94949</string>
+			</dict>
+			<key>scope</key>
+			<string>entity.name.class, entity.name.type.class, support.type, support.class, support.function.general.latex</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Latex Builtins</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c94949</string>
+			</dict>
+			<key>scope</key>
+			<string>support.function.general.latex, support.function.section.latex, support.function.texttt.latex, support.function.textbf.latex, support.function.textit.latex, support.function.text.latex, support.function.emph.latex</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Latex Minted (inline)</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#BD7F00</string>
+			</dict>
+			<key>scope</key>
+			<string>support.function.mintinline.latex</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String, Symbols, Inherited Class, Markup Heading</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#718c00</string>
+			</dict>
+			<key>scope</key>
+			<string>string, constant.other.symbol, entity.other.inherited-class, markup.heading</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Operator, Misc</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#3e999f</string>
+			</dict>
+			<key>scope</key>
+			<string>keyword.operator, constant.other.color</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Function, Special Method, Block Level</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#4271ae</string>
+			</dict>
+			<key>scope</key>
+			<string>entity.name.function, meta.function-call, keyword.other.special-method, meta.block-level</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Keyword, Storage</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#8959a8</string>
+			</dict>
+			<key>scope</key>
+			<string>keyword, storage, storage.type</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#c94949</string>
+				<key>foreground</key>
+				<string>#ffffff</string>
+			</dict>
+			<key>scope</key>
+			<string>invalid</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Separator</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#4271ae</string>
+				<key>foreground</key>
+				<string>#ffffff</string>
+			</dict>
+			<key>scope</key>
+			<string>meta.separator</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deprecated</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#8959a8</string>
+				<key>foreground</key>
+				<string>#ffffff</string>
+			</dict>
+			<key>scope</key>
+			<string>invalid.deprecated</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diff foreground</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffffff</string>
+			</dict>
+			<key>scope</key>
+			<string>markup.inserted.diff, markup.deleted.diff, meta.diff.header.to-file, meta.diff.header.from-file</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diff insertion</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#718c00</string>
+			</dict>
+			<key>scope</key>
+			<string>markup.inserted.diff, meta.diff.header.to-file</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diff deletion</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#c94949</string>
+			</dict>
+			<key>scope</key>
+			<string>markup.deleted.diff, meta.diff.header.from-file</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diff header</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#4271ae</string>
+				<key>foreground</key>
+				<string>#ffffff</string>
+			</dict>
+			<key>scope</key>
+			<string>meta.diff.header.from-file, meta.diff.header.to-file</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diff range</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#3e999f</string>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+			<key>scope</key>
+			<string>meta.diff.range</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Proven with Coq</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#bbde90</string>
+			</dict>
+			<key>scope</key>
+			<string>meta.proven.coq</string>
+		</dict>
+	</array>
+</dict>
+</plist>
